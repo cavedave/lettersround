@@ -6,7 +6,7 @@ some code and text for a guide to do well on the letters round in a Countdown li
 CountdownChai.pdf
 
 ## Video
-[![Watch the video](https://img.youtube.com/vi/HgaWbXN_BNU/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Watch the video](https://img.youtube.com/vi/HgaWbXN_BNU/0.jpg)](https://www.youtube.com/watch?v=HgaWbXN_BNU)
 
 
 ## Code Explanation
